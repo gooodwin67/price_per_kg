@@ -1,5 +1,7 @@
 # Цена за килограмм
 
+Flutter
+
 Приложение для сравнения цен за киллограм продукта.
 
 https://lcfc.ru/appdev/apps/price_per_kg.apk
